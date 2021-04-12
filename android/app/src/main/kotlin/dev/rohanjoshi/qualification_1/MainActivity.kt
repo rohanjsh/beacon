@@ -1,0 +1,6 @@
+package dev.rohanjoshi.qualification_1
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
