@@ -5,7 +5,7 @@ import 'package:share/share.dart';
 
 //TODO Add your publishablekey here
 const String publishableKey =
-    't8AI287a1tsG7tEHzJTeJ1za1k6ax5TvcmGLjNEBapfzHaUNOMWWD7OyH4aWyYSF1eDyJu8h61IECYqTejzDSg';
+    'xx';
 
 class HyperTrackQuickStart extends StatefulWidget {
   HyperTrackQuickStart({Key key}) : super(key: key);
@@ -35,7 +35,7 @@ class _HyperTrackQuickStartState extends State<HyperTrackQuickStart> {
     print(deviceId);
     helper = NetworkHelper(
       auth:
-          'Basic WUZoOFc1LVJyTnRvWGp2RnYtSGt6aG5MMGNZOkJqVHZsS2c4UEdIeHJ0YUJ3VllXZjhHaUpvTWo1ZXhWcEhPSVF1bFYxZUJ5NHdtWUdjX3JGdw==',
+          'Basic xxx',
       id: deviceId,
       url: 'https://v3.api.hypertrack.com',
     );
