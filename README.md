@@ -1,4 +1,4 @@
-# qualification_1
+# Beacon - HyperTrack API basic location sharing implementation
 
 A new Flutter application.
 
